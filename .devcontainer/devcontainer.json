@@ -1,5 +1,6 @@
 {
-  "name": "Hono開発",
+  "name": "Hono-developer-TS",
+  "runArgs": ["--name", "Hono-developer-TS"],
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {},
